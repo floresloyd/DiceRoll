@@ -1,7 +1,7 @@
 # Dice Roll Web App
 
 ## Introduction
-The Dice Roll Web App is a simple and interactive webpage that simulates the rolling of two dice. It's perfect for those who need a quick decision-making tool or just want to bring a bit of randomness into their games.
+The Dice Roll Web App is a simple and interactive webpage that simulates the rolling of two die. who wins? idk?
 
 ## How to Use
 - Visit the web application using the demo link.
